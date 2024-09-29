@@ -1,0 +1,15 @@
+:root{
+    --maincolor: rgb(21, 97, 163);
+    --bordercl:rebeccapurple;
+    --callouctcolor:dodgerblue;
+    --hovercolor:navy;
+    --darkMaincolor: #50fa7b;
+}
+
+html {
+    color: #232333;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    line-height: 1.6em;
+    background-color: #e1c994;
+}
