@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bloodwork</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on bloodwork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/blog/about/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/blog/about/</guid>
       <description>Hello!&#xA;This site was named after The Dare&amp;rsquo;s &amp;ldquo;Bloodwork&amp;rdquo;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/misc240929/</link>
+      <link>http://localhost:1313/blog/posts/misc240929/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/misc240929/</guid>
+      <guid>http://localhost:1313/blog/posts/misc240929/</guid>
       <description>Hello! This is a test</description>
     </item>
   </channel>
