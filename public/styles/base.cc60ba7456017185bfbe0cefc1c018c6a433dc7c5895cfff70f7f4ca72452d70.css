@@ -1,16 +1,16 @@
 @font-face {
     font-family: "SpaceMono";
-    src: url('../fonts/Space_Mono/SpaceMono-Bold.ttf') format('truetype');
+    src: local('../fonts/Space_Mono/SpaceMono-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: "SpaceMonoBold";
-    src: url('../fonts/Space_Mono/SpaceMono-Bold.ttf') format('truetype');
+    src: local('../fonts/Space_Mono/SpaceMono-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: "StintUltraExpanded";
-    src: url('../fonts/Stint_Ultra_Expanded/StintUltraExpanded-Regular.ttf') format('truetype');
+    src: local('../fonts/Stint_Ultra_Expanded/StintUltraExpanded-Regular.ttf') format('truetype');
 }
 
 :root{
@@ -18,7 +18,7 @@
     --bordercl:#ff9e9b;
     --callouctcolor:dodgerblue;
     --hovercolor:#fcb207;
-    --darkMaincolor: #dd0d22;
+    --darkMaincolor: #50fa7b;
 }
 
 html {
