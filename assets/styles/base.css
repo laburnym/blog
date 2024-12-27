@@ -1,6 +1,6 @@
 @font-face {
     font-family: "SpaceMono";
-    src: url('../fonts/Space_Mono/SpaceMono-Bold.ttf') format('truetype');
+    src: url('../fonts/Space_Mono/SpaceMono-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -39,5 +39,9 @@ p {
 
 header .main {
     font-size: 37px;
+    font-family: 'SpaceMonoBold', sans-serif;
+}
+
+.meta, .readmore, footer {
     font-family: 'SpaceMonoBold', sans-serif;
 }

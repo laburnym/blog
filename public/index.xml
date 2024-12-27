@@ -6,21 +6,21 @@
     <description>Recent content on bloodwork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saturday Night - Review</title>
+      <link>http://localhost:1313/blog/posts/misc240929/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/misc240929/</guid>
+      <description>{{ $image := .Resources.Get &amp;ldquo;saturdaynight.jpg&amp;rdquo; }}</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/blog/about/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/about/</guid>
       <description>Hello!&#xA;This site was named after The Dare&amp;rsquo;s &amp;ldquo;Bloodwork&amp;rdquo;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/blog/posts/misc240929/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/misc240929/</guid>
-      <description>Hello! This is a test</description>
     </item>
   </channel>
 </rss>
