@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saturday Night - Review</title>
-      <link>http://localhost:1313/blog/posts/misc240929/</link>
+      <link>http://localhost:1313/blog/posts/test/test/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/misc240929/</guid>
-      <description>{{ $image := .Resources.Get &amp;ldquo;saturdaynight.jpg&amp;rdquo; }}</description>
+      <guid>http://localhost:1313/blog/posts/test/test/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

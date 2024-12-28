@@ -5,5 +5,4 @@ date: 2024-10-20
 tags: [reviews, movies]
 ---
 
-![Poster](/images/saturdaynight.jpg)
-{{ $image := .Resources.Get "saturdaynight.jpg" }}
+![Scenario 1: Across columns](images/saturdaynight.jpg)
